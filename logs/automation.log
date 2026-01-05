@@ -1,0 +1,26 @@
+19:06:08:380 [main] INFO  testCases.TC001_AccountRegistrationTest - *** starting TC001_AccountRegistrationTest ****
+19:06:08:594 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAcoount link
+19:06:09:001 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register link
+19:06:09:004 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.....
+19:06:13:640 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+19:06:13:682 [main] INFO  testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+09:21:59:368 [main] INFO  testCases.TC001_AccountRegistrationTest - *** starting TC001_AccountRegistrationTest ****
+09:21:59:569 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAcoount link
+09:22:00:066 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register link
+09:22:00:095 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.....
+09:22:04:731 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+09:22:04:785 [main] INFO  testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+09:22:09:014 [main] INFO  testCases.TC002_LoginTest - ***** starting TC002_LoginTest ******
+09:22:09:171 [main] INFO  testCases.TC002_LoginTest - clicking my account mu=y link
+09:22:09:453 [main] INFO  testCases.TC002_LoginTest - clicking login link
+09:22:10:660 [main] INFO  testCases.TC002_LoginTest - *****finished TC002_LoginTes ****
+10:03:05:678 [main] INFO  testCases.TC001_AccountRegistrationTest - *** starting TC001_AccountRegistrationTest ****
+10:03:05:896 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAcoount link
+10:03:06:349 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register link
+10:03:06:352 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.....
+10:03:11:411 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+10:03:11:473 [main] INFO  testCases.TC001_AccountRegistrationTest - *** finished TC001_AccountRegistrationTest ****
+10:03:15:709 [main] INFO  testCases.TC002_LoginTest - ***** starting TC002_LoginTest ******
+10:03:15:868 [main] INFO  testCases.TC002_LoginTest - clicking my account mu=y link
+10:03:16:142 [main] INFO  testCases.TC002_LoginTest - clicking login link
+10:03:17:284 [main] INFO  testCases.TC002_LoginTest - *****finished TC002_LoginTes ****
